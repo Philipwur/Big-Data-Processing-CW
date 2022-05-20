@@ -1,0 +1,2 @@
+The reason that the format of the Part_A_1_out.txt does not match what the script would output 
+is because the Part_A_1.py script was updated at a later point so parts of it could be used in other scripts.
